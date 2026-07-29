@@ -1,0 +1,466 @@
+[
+  {
+    "headword": "apple",
+    "ipa_uk": "ˈæp.əl",
+    "ipa_us": "ˈæp.əl",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A round fruit with firm flesh and skin that may be red, green, or yellow.",
+        "translation_zh": "蘋果",
+        "example_en": "She sliced an apple for breakfast.",
+        "example_zh": "她早餐切了一顆蘋果。"
+      },
+      {
+        "pos": "noun",
+        "definition": "A tree that produces apples.",
+        "translation_zh": "蘋果樹",
+        "example_en": "The old apple flowers every spring.",
+        "example_zh": "那棵老蘋果樹每年春天都會開花。"
+      }
+    ],
+    "forms": [
+      {"form": "apples", "tags": ["plural"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "the apple of someone's eye",
+        "definition": "A person who is loved and valued very much.",
+        "translation_zh": "某人的掌上明珠",
+        "example": "Their youngest child is the apple of their eye."
+      }
+    ],
+    "relations": [
+      {"type": "hypernym", "word": "fruit"},
+      {"type": "related", "word": "orchard"}
+    ]
+  },
+  {
+    "headword": "apply",
+    "ipa_uk": "əˈplaɪ",
+    "ipa_us": "əˈplaɪ",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "verb",
+        "definition": "To make a formal request for a job, place, or permission.",
+        "translation_zh": "申請",
+        "example_en": "You can apply online before Friday.",
+        "example_zh": "你可以在星期五前線上申請。"
+      },
+      {
+        "pos": "verb",
+        "definition": "To put or spread something onto a surface.",
+        "translation_zh": "塗；敷",
+        "example_en": "Apply a thin layer of paint.",
+        "example_zh": "塗上一層薄漆。"
+      }
+    ],
+    "forms": [
+      {"form": "applies", "tags": ["third-person singular"]},
+      {"form": "applied", "tags": ["past", "past participle"]},
+      {"form": "applying", "tags": ["present participle"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "apply oneself",
+        "definition": "To work with steady attention and effort.",
+        "translation_zh": "專心努力",
+        "example": "If you apply yourself, the skill becomes easier."
+      }
+    ],
+    "relations": [
+      {"type": "derived", "word": "application"},
+      {"type": "derived", "word": "applicant"}
+    ]
+  },
+  {
+    "headword": "break",
+    "ipa_uk": "breɪk",
+    "ipa_us": "breɪk",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "verb",
+        "definition": "To separate into pieces, often because of force or damage.",
+        "translation_zh": "打破；弄壞",
+        "example_en": "Take care not to break the glass.",
+        "example_zh": "小心別打破玻璃。"
+      },
+      {
+        "pos": "noun",
+        "definition": "A short period when an activity stops for rest.",
+        "translation_zh": "休息時間",
+        "example_en": "Let us take a ten-minute break.",
+        "example_zh": "我們休息十分鐘吧。"
+      }
+    ],
+    "forms": [
+      {"form": "breaks", "tags": ["third-person singular", "plural"]},
+      {"form": "broke", "tags": ["past"]},
+      {"form": "broken", "tags": ["past participle"]},
+      {"form": "breaking", "tags": ["present participle"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "break the ice",
+        "definition": "To make people feel more relaxed when they first meet.",
+        "translation_zh": "打破僵局",
+        "example": "A light question helped break the ice."
+      }
+    ],
+    "relations": [
+      {"type": "synonym", "word": "fracture"},
+      {"type": "antonym", "word": "repair"}
+    ]
+  },
+  {
+    "headword": "cloud",
+    "ipa_uk": "klaʊd",
+    "ipa_us": "klaʊd",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A visible mass of tiny water drops or ice crystals in the sky.",
+        "translation_zh": "雲",
+        "example_en": "A dark cloud moved over the hill.",
+        "example_zh": "一朵烏雲飄過山丘。"
+      },
+      {
+        "pos": "noun",
+        "definition": "Remote computing services and storage reached through a network.",
+        "translation_zh": "雲端",
+        "example_en": "The backup is stored in the cloud.",
+        "example_zh": "備份儲存在雲端。"
+      }
+    ],
+    "forms": [
+      {"form": "clouds", "tags": ["plural"]},
+      {"form": "cloudy", "tags": ["derived adjective"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "under a cloud",
+        "definition": "Regarded with doubt or suspicion.",
+        "translation_zh": "受到懷疑",
+        "example": "The unexplained error left the result under a cloud."
+      }
+    ],
+    "relations": [
+      {"type": "related", "word": "rain"},
+      {"type": "related", "word": "server"}
+    ]
+  },
+  {
+    "headword": "dictionary",
+    "ipa_uk": "ˈdɪk.ʃən.ər.i",
+    "ipa_us": "ˈdɪk.ʃə.ner.i",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "A reference that lists words and explains their meanings, forms, or use.",
+        "translation_zh": "字典；辭典",
+        "example_en": "This dictionary works without a network connection.",
+        "example_zh": "這本字典不需要網路連線即可使用。"
+      }
+    ],
+    "forms": [
+      {"form": "dictionaries", "tags": ["plural"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "bilingual dictionary",
+        "definition": "A dictionary that connects words in two languages.",
+        "translation_zh": "雙語字典",
+        "example": "A bilingual dictionary can support translation practice."
+      }
+    ],
+    "relations": [
+      {"type": "related", "word": "lexicon"},
+      {"type": "related", "word": "glossary"}
+    ]
+  },
+  {
+    "headword": "fast",
+    "ipa_uk": "fɑːst",
+    "ipa_us": "fæst",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "adjective",
+        "definition": "Moving, happening, or working at high speed.",
+        "translation_zh": "快速的",
+        "example_en": "The fast train saves an hour.",
+        "example_zh": "快速列車可節省一小時。"
+      },
+      {
+        "pos": "adverb",
+        "definition": "At high speed or within a short time.",
+        "translation_zh": "快速地",
+        "example_en": "News travels fast.",
+        "example_zh": "消息傳得很快。"
+      }
+    ],
+    "forms": [
+      {"form": "faster", "tags": ["comparative"]},
+      {"form": "fastest", "tags": ["superlative"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "fast asleep",
+        "definition": "Sleeping deeply.",
+        "translation_zh": "熟睡",
+        "example": "The child was fast asleep."
+      }
+    ],
+    "relations": [
+      {"type": "synonym", "word": "quick"},
+      {"type": "antonym", "word": "slow"}
+    ]
+  },
+  {
+    "headword": "light",
+    "ipa_uk": "laɪt",
+    "ipa_us": "laɪt",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "Energy that makes vision possible and makes things visible.",
+        "translation_zh": "光；光線",
+        "example_en": "Morning light entered the room.",
+        "example_zh": "晨光照進房間。"
+      },
+      {
+        "pos": "adjective",
+        "definition": "Not heavy in weight.",
+        "translation_zh": "輕的",
+        "example_en": "The bag is light enough to carry.",
+        "example_zh": "這個袋子很輕，容易攜帶。"
+      }
+    ],
+    "forms": [
+      {"form": "lights", "tags": ["plural", "third-person singular"]},
+      {"form": "lit", "tags": ["past", "past participle"]},
+      {"form": "lighter", "tags": ["comparative"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "in light of",
+        "definition": "After considering a particular fact.",
+        "translation_zh": "鑑於；考量到",
+        "example": "The plan changed in light of new evidence."
+      }
+    ],
+    "relations": [
+      {"type": "antonym", "word": "dark"},
+      {"type": "antonym", "word": "heavy"}
+    ]
+  },
+  {
+    "headword": "offline",
+    "ipa_uk": "ˌɒfˈlaɪn",
+    "ipa_us": "ˌɑːfˈlaɪn",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "adjective",
+        "definition": "Not connected to or dependent on a computer network.",
+        "translation_zh": "離線的",
+        "example_en": "Offline search remains available on the train.",
+        "example_zh": "搭火車時仍可使用離線搜尋。"
+      }
+    ],
+    "forms": [],
+    "phrases": [
+      {
+        "phrase": "work offline",
+        "definition": "To use a system without a live network connection.",
+        "translation_zh": "離線工作",
+        "example": "Download the pack first, then work offline."
+      }
+    ],
+    "relations": [
+      {"type": "antonym", "word": "online"},
+      {"type": "related", "word": "local"}
+    ]
+  },
+  {
+    "headword": "run",
+    "ipa_uk": "rʌn",
+    "ipa_us": "rʌn",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "verb",
+        "definition": "To move on foot faster than walking.",
+        "translation_zh": "跑；奔跑",
+        "example_en": "They run in the park each morning.",
+        "example_zh": "他們每天早上在公園跑步。"
+      },
+      {
+        "pos": "verb",
+        "definition": "To operate or manage a machine, program, or organization.",
+        "translation_zh": "運行；經營",
+        "example_en": "The app can run on Windows.",
+        "example_zh": "這個 App 可以在 Windows 上運行。"
+      }
+    ],
+    "forms": [
+      {"form": "runs", "tags": ["third-person singular"]},
+      {"form": "ran", "tags": ["past"]},
+      {"form": "run", "tags": ["past participle"]},
+      {"form": "running", "tags": ["present participle"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "run out of",
+        "definition": "To use all of something so that none remains.",
+        "translation_zh": "用完；耗盡",
+        "example": "We ran out of storage space."
+      }
+    ],
+    "relations": [
+      {"type": "synonym", "word": "sprint"},
+      {"type": "related", "word": "operate"}
+    ]
+  },
+  {
+    "headword": "serendipity",
+    "ipa_uk": "ˌser.ənˈdɪp.ə.ti",
+    "ipa_us": "ˌser.ənˈdɪp.ə.t̬i",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "noun",
+        "definition": "The occurrence of a useful or pleasant discovery by chance.",
+        "translation_zh": "意外發現美好事物的機緣",
+        "example_en": "Finding the quiet café was pure serendipity.",
+        "example_zh": "意外找到那間安靜咖啡館，是一場美好巧合。"
+      }
+    ],
+    "forms": [],
+    "phrases": [],
+    "relations": [
+      {"type": "related", "word": "chance"},
+      {"type": "related", "word": "discovery"}
+    ]
+  },
+  {
+    "headword": "take",
+    "ipa_uk": "teɪk",
+    "ipa_us": "teɪk",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "verb",
+        "definition": "To move something into your possession or from one place to another.",
+        "translation_zh": "拿；取；帶",
+        "example_en": "Please take an umbrella.",
+        "example_zh": "請帶一把傘。"
+      }
+    ],
+    "forms": [
+      {"form": "takes", "tags": ["third-person singular"]},
+      {"form": "took", "tags": ["past"]},
+      {"form": "taken", "tags": ["past participle"]},
+      {"form": "taking", "tags": ["present participle"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "take part",
+        "definition": "To participate in an activity.",
+        "translation_zh": "參加",
+        "example": "Everyone may take part in the test."
+      },
+      {
+        "phrase": "take into account",
+        "definition": "To consider something when making a decision.",
+        "translation_zh": "把……納入考量",
+        "example": "Take file size into account before downloading."
+      }
+    ],
+    "relations": [
+      {"type": "synonym", "word": "carry"},
+      {"type": "antonym", "word": "give"}
+    ]
+  },
+  {
+    "headword": "work",
+    "ipa_uk": "wɜːk",
+    "ipa_us": "wɝːk",
+    "source": "MyDuo starter dictionary",
+    "source_url": "asset://assets/licenses/STARTER_DATA.md",
+    "license": "CC0-1.0",
+    "attribution": "Original demonstration entry created for MyDuo.",
+    "senses": [
+      {
+        "pos": "verb",
+        "definition": "To perform an activity that requires effort or skill.",
+        "translation_zh": "工作；做事",
+        "example_en": "She works from home twice a week.",
+        "example_zh": "她每週在家工作兩天。"
+      },
+      {
+        "pos": "verb",
+        "definition": "To operate successfully or have the intended effect.",
+        "translation_zh": "運作；奏效",
+        "example_en": "The fallback works without internet access.",
+        "example_zh": "備援功能不需網路也能運作。"
+      }
+    ],
+    "forms": [
+      {"form": "works", "tags": ["third-person singular", "plural"]},
+      {"form": "worked", "tags": ["past", "past participle"]},
+      {"form": "working", "tags": ["present participle"]}
+    ],
+    "phrases": [
+      {
+        "phrase": "work out",
+        "definition": "To develop successfully or to find an answer through thought.",
+        "translation_zh": "順利發展；想出",
+        "example": "We can work out a safe update plan."
+      }
+    ],
+    "relations": [
+      {"type": "related", "word": "job"},
+      {"type": "related", "word": "function"}
+    ]
+  }
+]
